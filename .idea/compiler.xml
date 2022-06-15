@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
