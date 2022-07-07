@@ -9,12 +9,31 @@
       <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
       <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
       <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine__1_-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="Coffee_Machine.Topics-Comments-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Comments-Three_numbers.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Coffee_Machine.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Direction.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-From_string_to_a_number.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Shape.main" target="11" />
+      <module name="Coffee_Machine.Topics__1_-Switch_statement-Theory.main" target="11" />
       <module name="Coffee_Machine.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
